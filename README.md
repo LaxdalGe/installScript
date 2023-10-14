@@ -1,4 +1,4 @@
-#### installScript
+## INFO
 自用安装脚本，去除树莓派桌面版安装限制
 ### installScript
 - Please use a new SD card if installing on an arm/sbc device and flash it with the latest Debian OS Lite (without desktop environment) or Server image available for your SBC.
