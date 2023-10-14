@@ -1,5 +1,7 @@
-## INFO
-自用安装脚本，去除树莓派桌面版安装限制
+# INFO
+####自用安装脚本，去除树莓派桌面版安装限制
+
+
 ### installScript
 - Please use a new SD card if installing on an arm/sbc device and flash it with the latest Debian OS Lite (without desktop environment) or Server image available for your SBC.
 - This script will install openmediavault, omv-extras, and flashmemory. If you already have openmediavault installed don't worry, your openmediavault will be preserved, only the not installed will be added to the system.
